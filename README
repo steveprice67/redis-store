@@ -1,0 +1,1 @@
+Minimal rails 3 implementation of a session store and cache using redis.
